@@ -1,6 +1,4 @@
-# Singapore Employment landscape: Information Visualisation Project
-Singapore Employment Landscape - Information Visualisation Project
-
+# Singapore Employment landscape: CS5346 Information Visualisation Project
 
 Understanding Singapore's employment market dynamics is crucial for assessing economic
 health and individual career prospects. However, the complexity of Singapore's employment data
